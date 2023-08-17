@@ -2,9 +2,10 @@
 <p align='center'>Java developer :man_technologist: | Gamer :video_game: </p>
 <div align="center"><img width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3NTQ3ZDRkbzBjZWU1MGpqZWRidGpuazY3YzljZzlsb2E5MGo4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7EMuTfl61WDzFwar6G/giphy.gif" />
 
-<a href="https://git.io/streak-stats">
+<!-- <a href="https://git.io/streak-stats">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Jakowczyk&layout=compact&theme=nord&hide_border=true&langs_count=8"/>
-</a></div>
+</a> -->
+</div>
 <div align="center"> <img src="https://www.codewars.com/users/M-Jakowczyk/badges/large" />
 </div>
 
