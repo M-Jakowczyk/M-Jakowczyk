@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Mateusz :wave: </h1>
-<p align='center'>Java developer :man_technologist: | Gamer :video_game: </p>
+<p align='center'>Java/C# developer :man_technologist: | Gamer :video_game: </p>
 <div align="center"><img width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3NTQ3ZDRkbzBjZWU1MGpqZWRidGpuazY3YzljZzlsb2E5MGo4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7EMuTfl61WDzFwar6G/giphy.gif" />
 
 <!-- <a href="https://git.io/streak-stats">
@@ -12,8 +12,10 @@
 
 <h2> Languages and Tools: :hammer_and_wrench:</h2>
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -32,6 +34,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
